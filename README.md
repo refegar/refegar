@@ -37,11 +37,12 @@ Soy un apasionado desarrollor Fullstack junior de colombia con sólidos conocimi
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-### ✨ Proyectos Destacados 
+### ✨ Ultimos Proyectos 
 
 <a href="https://github.com/refegar"><img width="320" src="https://github.com/refegar" alt="En construccion... 1"></a>
 
@@ -50,3 +51,14 @@ Soy un apasionado desarrollor Fullstack junior de colombia con sólidos conocimi
 <a href="https://github.com/refegar"><img width="320" src="https://github.com/refegar" alt="En construccion... 3"></a>
 
 <a href="https://github.com/refegar"><img width="320" src="https://github.com/refegar" alt="En construccion... 4"></a>
+
+---
+
+### 🔥 My Stats:
+<br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=refegar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="165" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=refegar&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
