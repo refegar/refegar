@@ -1,7 +1,7 @@
 ![Portada-github](https://github.com/user-attachments/assets/cb4d59fd-8eb7-4c01-b4a6-e64af258d82b)
 
 ---
-<img align="right" alt="GIF" src="https://github-production-user-asset-6210df.s3.amazonaws.com/140569595/356784447-3bf8f9af-fa1d-4e45-a9e2-7326e841b501.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240810%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240810T024638Z&X-Amz-Expires=300&X-Amz-Signature=4ffb7770d0cfc216cdde97100e85543801a0b5203db47b9381ffe9e0277110fb&X-Amz-SignedHeaders=host&actor_id=140569595&key_id=0&repo_id=840490682" width="310px" />
+<img align="right" alt="GIF" src="https://github-production-user-asset-6210df.s3.amazonaws.com/140569595/356784447-3bf8f9af-fa1d-4e45-a9e2-7326e841b501.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240810%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240810T024638Z&X-Amz-Expires=300&X-Amz-Signature=4ffb7770d0cfc216cdde97100e85543801a0b5203db47b9381ffe9e0277110fb&X-Amz-SignedHeaders=host&actor_id=140569595&key_id=0&repo_id=840490682" width="310px"/>
 
 
 ### 👨🏽‍💻 Sobre Mi:
@@ -14,7 +14,7 @@ Soy un apasionado desarrollor Fullstack junior de colombia con sólidos conocimi
 
 - 🎰 ¡Echa un vistazo a mi portafolio! En construccion...
 
-- 📫 Cómo contactarme: marfenox@gmail.com o  <a href="https://github.com/refegar/" >
+- 📫 Cómo contactarme: marfenox@gmail.com o  <a href="https://www.linkedin.com/in/luis-fernando-garcia-85143b2a5" >
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 <br>
