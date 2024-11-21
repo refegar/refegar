@@ -44,21 +44,23 @@ Soy un apasionado desarrollor Fullstack junior de colombia con sólidos conocimi
 
 ### ✨ Ultimos Proyectos 
 
-<a href="https://github.com/refegar"><img width="320" src="https://github.com/refegar" alt="En construccion... 1"></a>
+<a href="https://github.com/refegar/shabu-compras-react-redux-toolkit"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=refegar&repo=shabu-compras-react-redux-toolkit&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="desarrollado con React Redux toolkit"></a>
 
-<a href="https://github.com/refegar"><img width="320" src="https://github.com/refegar" alt="En construccion... 2"></a>
+<a href="https://github.com/refegar/redis-api-carrito-sequelize">
+<img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=refegar&repo=redis-api-carrito-sequelize&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="creacion CRUD mysql-sequelize"></a>
 
-<a href="https://github.com/refegar"><img width="320" src="https://github.com/refegar" alt="En construccion... 3"></a>
+<a href="https://github.com/refegar/redis-api-carrito-sequelize">
+<img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=refegar&repo=redis-api-nestjs-crud&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Conexion nest.js con redis"></a>
 
-<a href="https://github.com/refegar"><img width="320" src="https://github.com/refegar" alt="En construccion... 4"></a>
+<a href="https://github.com/refegar/postgresql-api-nestjs-crud">
+<img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=refegar&repo=postgresql-api-nestjs-crud&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Conexion nest.js con Postgresql sistema CRUD"></a>
 
 ---
 
 ### 🔥 My Stats:
 <br>
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=refegar&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=refegar&show_icons=true&theme=tokyonight&count_private=true" alt="MelvinAguilar" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refegar&layout=compact&theme=tokyonight" alt="MelvinAguilar" height="165">
 </div>
 
 ###
