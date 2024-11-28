@@ -6,7 +6,7 @@
 
 ### 👨🏽‍💻 Sobre Mi:
 
-Soy un apasionado desarrollor Fullstack junior de colombia con sólidos conocimientos en tecnologías web.
+Soy un desarrollor Fullstack junior de colombia con sólidos conocimientos en tecnologías web.
 
 - 🤖 Estoy actualizando constantemente mis conocimientos en frontend y backend para crear aplicaciones web.
   
